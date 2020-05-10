@@ -1,0 +1,6 @@
+Program Architecture
+
+This is controlled via the host files on all OS
+
+Mac and Linux: /etc/hosts
+Windows: C:\Windows\System32\drivers\etc
